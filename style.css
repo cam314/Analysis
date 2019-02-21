@@ -1,5 +1,9 @@
 .analysis-color {
-  color: black;
+  color: black !important;
+}
+
+.analysis-color:hover {
+  color: white !important;
 }
 
 .jumbotron {
