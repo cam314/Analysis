@@ -24,7 +24,12 @@
   background-attachment: fixed;
 }
 
-
+.jumbotron2 {
+  margin-bottom: 0;
+  background-image: url("images/techbackground2.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
 
 blockquote {
   border-left: 0;
@@ -85,6 +90,7 @@ h3 {
 }
 #social-buttons {
   margin-top: 120px;
+
 }
 
 p2 { color: black }
