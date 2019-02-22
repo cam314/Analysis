@@ -6,6 +6,10 @@
   color: black;
 }
 
+.analysis-color {
+  color: black !important;
+}
+
 .jumbotron {
   padding-top: 90px;
 
