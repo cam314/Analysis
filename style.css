@@ -52,6 +52,10 @@ blockquote {
   background-color: white;
 }
 
+.abc{
+  text-align: right;
+}
+
 h2 {
   margin-bottom: 1.5em;
   color: black;
