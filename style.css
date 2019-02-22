@@ -42,7 +42,7 @@ blockquote {
 }
 
 .h1 {
-  font-family: 'Vast Shadow', cursive;
+  font-family: georgia serif;
   color: black;
   margin-bottom: 1em;
 }
@@ -50,7 +50,8 @@ blockquote {
 h2 {
   margin-bottom: 1.5em;
   color: black;
-  font-family: 'Vast Shadow', cursive;
+  font-family: georgia serif;
+  font-size: large;
 }
 
 h3 {
