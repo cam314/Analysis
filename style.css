@@ -49,6 +49,14 @@ h2 {
   margin-bottom: 1.5em;
 }
 
+h3 {
+  text-decoration: underline;
+}
+
+dl {
+  font-size-adjust: 1.8;
+}
+
 .navbar-inverse {
   background-color: #33b5e5;
 }
