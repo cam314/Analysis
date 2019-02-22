@@ -12,7 +12,7 @@
 
 .jumbotron {
   padding-top: 90px;
-  min-height: 600px;
+
   margin-bottom: 0;
   background-image: url("images/techbackground2.png");
   background-size: cover;
@@ -46,6 +46,10 @@ blockquote {
   color: black;
   margin-bottom: 1em;
   font-size: 300%
+}
+
+.title{
+  background-color: white;
 }
 
 h2 {
