@@ -113,3 +113,8 @@ p2 { color: black }
   border-color: #b62f26;
   color: white;
 }
+
+.border{
+  border: 5px;
+  border-color:black;
+}
