@@ -1,29 +1,29 @@
+.analysis-color {
+  color: black !important;
+}
+
 .analysis-color:hover {
   color: white !important;
 }
 
 .analysis-color2 {
-  color: black;
-}
-
-.analysis-color {
   color: black !important;
-}
-
-.logoi {
-  height: 201px;
- width: 250px;
 }
 
 .jumbotron {
   padding-top: 90px;
-
+  min-height: 600px;
   margin-bottom: 0;
   background-image: url("images/techbackground2.png");
   background-size: cover;
   background-attachment: fixed;
 }
 
+h1 {
+  font-family: 'Vast Shadow', cursive;
+  color: black;
+  margin-bottom: 1em;
+}
 
 
 blockquote {
@@ -45,31 +45,9 @@ blockquote {
 .jumbotron img {
   margin-top: 50px;
 }
-
-.h1 {
-  font-family: georgia serif;
-  color: black;
-  margin-bottom: 1em;
-  font-size: 300%
-}
-
-.title{
-  background-color: white;
-  border-radius: 40px
-}
-
-.abc{
-  font-family: monospace !important;
-}
-
 h2 {
-  color: black;
-  font-family: georgia serif;
-  font-size: 200%;
-}
-
-.df {
-  color: #0099CC
+  margin-bottom: 1.5em;
+  font-family: 'Vast Shadow', cursive;
 }
 
 h3 {
@@ -84,17 +62,10 @@ h3 {
   width: 80%;
 }
 #social-buttons {
-  margin-top: 120px;
+  margin-top: 50px;
 }
 
 p2 { color: black }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 
 .btn-twitter {
   background-color: #00acee;
