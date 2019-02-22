@@ -50,17 +50,21 @@ blockquote {
 
 .title{
   background-color: white;
-  border-radius: 50px
+  border-radius: 40px
 }
 
 .abc{
-  text-align: right;
+  font-family: monospace sans-serif;
 }
 
 h2 {
   color: black;
   font-family: georgia serif;
   font-size: 200%;
+}
+
+.df {
+  color: #0099CC
 }
 
 h3 {
