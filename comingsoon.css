@@ -44,13 +44,6 @@ blockquote {
   margin-top: 50px;
 }
 
-.h1 {
-  font-family: georgia serif;
-  color: black;
-  margin-bottom: 1em;
-  font-size: 300%
-}
-
 .title{
   background-color: white;
   border-radius: 40px
@@ -72,6 +65,11 @@ h2 {
 
 h3 {
   text-decoration: underline;
+}
+
+h1 {
+  color: black;
+  font-size: 90px;
 }
 
 .navbar-inverse {
