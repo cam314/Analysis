@@ -1,0 +1,108 @@
+.analysis-color:hover {
+  color: white !important;
+}
+
+.analysis-color2 {
+  color: black;
+}
+
+.analysis-color {
+  color: black !important;
+}
+
+.logoi {
+  height: 201px;
+ width: 250px;
+}
+
+.jumbotron {
+  padding-top: 90px;
+
+  margin-bottom: 0;
+  background-image: url("images/techbackground2.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+
+blockquote {
+  border-left: 0;
+}
+
+#mission {
+  background-color: #0099CC;
+  color: #ddd;
+  padding-bottom: 40px;
+}
+.jumbotron .form-group {
+  line-height: 1em;
+}
+
+.jumbotron label {
+  color: white;
+}
+.jumbotron img {
+  margin-top: 50px;
+}
+
+.h1 {
+  font-family: georgia serif;
+  color: black;
+  margin-bottom: 1em;
+  font-size: 300%
+}
+
+.title{
+  background-color: white;
+  border-radius: 40px
+}
+
+.abc{
+  font-family: monospace !important;
+}
+
+h2 {
+  color: black;
+  font-family: georgia serif;
+  font-size: 200%;
+}
+
+.df {
+  color: #0099CC
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.navbar-inverse {
+  background-color: #33b5e5;
+}
+
+.form-inline input[name='email'] {
+  width: 80%;
+}
+#social-buttons {
+  margin-top: 120px;
+}
+
+p2 { color: black }
+
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+  color: white;
+}
