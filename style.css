@@ -89,6 +89,13 @@ h3 {
 
 p2 { color: black }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .btn-twitter {
   background-color: #00acee;
   border-color: #009ad5;
