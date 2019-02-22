@@ -24,8 +24,6 @@
   background-attachment: fixed;
 }
 
-
-
 blockquote {
   border-left: 0;
 }
@@ -85,6 +83,7 @@ h3 {
 }
 #social-buttons {
   margin-top: 120px;
+
 }
 
 p2 { color: black }
@@ -112,4 +111,9 @@ p2 { color: black }
   background-color: #b62f26;
   border-color: #b62f26;
   color: white;
+}
+
+.border{
+  border: 5px;
+  border-color:black;
 }
